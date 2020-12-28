@@ -6,3 +6,4 @@ Supports:
 - Xavier and kaiming weight initialization
 - Dropout
 - Adam optimizer
+- Batch training with live console progress display
